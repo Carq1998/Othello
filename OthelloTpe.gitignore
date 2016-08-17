@@ -4,7 +4,7 @@ from random import randrange
 def aide():
     msg = Toplevel()
     Message(msg, bg ="navy",fg ="ivory",width = 480, font ="Arial 12",
-        text ="           * Règles du jeu *         TPE Quentin Gabriel Victor\n"\
+        text ="           * Règles du jeu *         TPE Quentin Gabriel \n"\
         "Le plateau de jeu représente un damier de 64 cases, chaque joueur "\
         "dispose  de 32 jetons chacun, chaque face est noire d'un côté, "\
         "blanche de l'autre.\n"\
